@@ -1,2 +1,3 @@
 # itinerary-agent
-AI tool to for holidays.
+
+AI tool to for holidays!
